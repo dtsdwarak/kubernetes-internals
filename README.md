@@ -18,6 +18,7 @@ Please note that this material _may not_ be relevant if you're looking to operat
 - [How does the Kubernetes scheduler work](https://jvns.ca/blog/2017/07/27/how-does-the-kubernetes-scheduler-work/)
 - [Scheduling in Kubernetes](http://alexandrutopliceanu.ro/post/scheduling-in-kubernetes/)
 - [Implementing Advanced Scheduling Techniques with Kubernetes](https://thenewstack.io/implementing-advanced-scheduling-techniques-with-kubernetes/)
+- [SIG Scheduling Deep Dive – Bobby Salamat & Jonathan Basseri, Google](https://www.youtube.com/watch?v=_fja_lLFpfc)
 
 ### API Server
 - [Kubernetes deep dive: API Server – part 1](https://blog.openshift.com/kubernetes-deep-dive-api-server-part-1/)
